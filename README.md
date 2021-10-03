@@ -1,5 +1,7 @@
 ## <img src="https://github.com/egonelbre/gophers/blob/10cc13c5e29555ec23f689dc985c157a8d4692ab/vector/friends/liberty.svg" width="40">
-I'm an experienced back-end / distributed application developer who champions Go (golang) 
+I'm an experienced back-end / distributed application developer who champions Go (golang)
+
+I know how to build distributed systems that combine high performance and high reliability
 
 You can find my Go class at this YouTube [playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
@@ -12,7 +14,7 @@ You can find my Go class at this YouTube [playlist](https://www.youtube.com/play
 
 <br>
 
-### Expertise
+### Some of my expertise
 [<img align="left" alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](https://golang.org)  
 
 [<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />](https://www.postgresql.org)
