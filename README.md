@@ -21,6 +21,8 @@ You can find my Go class at this YouTube [playlist](https://www.youtube.com/play
 
 [<img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
 
+[<img align="left" alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />](https://kubernetes.io)
+
 <img align="left" alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-gray?logo=googlecloud&logoColor=white&style=for-the-badge" />
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
