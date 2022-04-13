@@ -3,6 +3,8 @@ I'm an experienced back-end / distributed application developer who champions Go
 
 I know how to build distributed systems that combine high performance and high reliability
 
+I also work on infrastructure including cluster management, ingress, and DNS
+
 You can find my Go class at this YouTube [playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
 ### Connect with me
